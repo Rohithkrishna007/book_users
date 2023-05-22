@@ -1,4 +1,3 @@
-/*
 package com.spring.pagination.security;
 
 import org.springframework.context.annotation.Bean;
@@ -18,4 +17,3 @@ public class SecurityConfiguration {
         return http.build();
     }
 }
-*/
